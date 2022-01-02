@@ -1,0 +1,3 @@
+/home/melvinr/Desktop/dossierC++/tutoC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/melvinr/Desktop/dossierC++/tutoC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/melvinr/Desktop/dossierC++/tutoC++/cmake-build-debug/CMakeFiles/tutoC__.dir
